@@ -1,0 +1,10 @@
+---
+layout: post
+title: "CK Work with Heptabase!"
+date: 2024-11-15 00:20:00
+description: "Exciting news about CK's software adventure"
+tags: career, announcement
+categories: updates
+---
+
+Heptabase is my favorite product! I now spent hours using this product to LEARN. It would be such an honor to work with people that created such a product that is insanely great!

@@ -1,23 +1,30 @@
 ---
 layout: about
-title: about
+title: This is CK
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Currently in Taipei.</p>
+    <p>Taipei => Boston</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I am Chi-Kang Pai. You can also call me CK or Brandon. 
+Welcome! My name is Chi-Kang Pai, but you can call me CK or Brandon. I am a proud alumnus of National Taiwan University, where I majored in Electrical Engineering with a focus on physics and signal processing. I am thrilled to be embarking on a new adventure as an incoming PhD researcher @ [Harvard CCB](https://chemistry.harvard.edu/).
+
+Driven by my dedication to biotech and healthcare, I've merged optical science with software engineering in my academic and research pursuits. I have done research with Prof. [Shi-Wei Chu](https://sites.google.com/site/ntubiooptic/members/shi-wei-chu) in NTU physics, [Prof. Guo-Yang Li](https://www.coe.pku.edu.cn/teaching/all_time/11935.html) at the HST-Wellman Summer Institute for Biomedical Optics, and [Prof. Shao-Hua Sun](https://shaohua0116.github.io/) in NTU EE.
+
+My journey also extends to software development, where my work at [Heptabase](https://heptabase.com/) to build my favorite software product, and at [Microsoft](https://azure.microsoft.com/en-us/products/ai-studio) building AI tools. These experiences have solidified my commitment to innovating tools and technologies aimed at enhancing patient care and advancing human health.
+
+Feel free to contact me if you are interested in having a chat with me!
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
