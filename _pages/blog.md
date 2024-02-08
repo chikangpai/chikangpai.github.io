@@ -12,8 +12,8 @@ pagination:
   sort_field: date
   sort_reverse: true
   trail:
-    before: 10 # The number of links before the current page
-    after: 5 # The number of links after the current page
+    before: 1 # The number of links before the current page
+    after: 3 # The number of links after the current page
 ---
 
 <div class="post">
@@ -29,6 +29,9 @@ pagination:
   </div>
   {% endif %}
 
+{% if site.display_tags or site.display_categories %}
+
+  {% endif %}
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
